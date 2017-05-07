@@ -11,11 +11,7 @@ import io.netty.channel.socket.nio.NioSocketChannel;
 import java.net.InetSocketAddress;
 
 /**
- * 连接服务器
- * 发送信息
- * 发送的每个信息，等待和接收从服务器返回的同样的信息
- * 关闭连接
- * <p>
+ *
  * Created by vectorzhang on 2017/5/7.
  */
 public class EchoClient {
